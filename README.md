@@ -108,5 +108,4 @@ NyayPaksh is an intelligent, multilingual legal research engine designed to aid 
 - Divyanshi Pal
 - Aditi Pandit
 - Aishwarya
-- Aanya Singh
 
