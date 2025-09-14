@@ -3,6 +3,7 @@
 > 🏆 **Winner of Smart India Hackathon 2024 – Ministry of Law & Justice**
 
 NyayPaksh is an intelligent, multilingual legal research engine designed to aid commercial courts in **faster dispute resolution**, **predictive legal insights**, and **streamlined decision-making**. It combines AI, NLP, and domain-specific models to reduce backlog and enhance judicial efficiency.
+**Video Link** - https://tinyurl.com/Nyaypaksh
 
 ## 🧠 Core Features
 
